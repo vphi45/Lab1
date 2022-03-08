@@ -1,9 +1,9 @@
 # Lab1
-package bai1;
+package cau1;
 
 import java.util.Scanner;
 
-public class baitap1 {
+public class cau1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
